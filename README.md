@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm **Gyanendra Gatiraj Swain**
+
+**A passionate AI Developer | Full-Stack Developer | Computer Science Student | Space-Tech Enthusiast from India 🇮🇳**
+
+Email Me 👉 ✉️ **[gyanendragatirajs@gmail.com](mailto:your-email@example.com)** for collaborations, projects, internships, or anything tech-related. 🚀
+
+* 🔭 **I'm currently working on:** Brainexa – An AI-powered personalized learning platform with intelligent agents.
+* 🌱 **I'm currently learning:** Agentic AI, Large Language Models (LLMs), FastAPI, RAG, LangGraph, and Advanced Machine Learning.
+* 👯 **I'm looking to collaborate on:** AI/ML projects, Full-Stack applications, Space-Tech innovations, and Open Source.
+* 🤔 **I'm looking for help with:** Scaling AI systems, Multi-Agent Architectures, and Research Projects.
+* 💬 **Ask me about:** Python, FastAPI, AI Agents, Machine Learning, React, Android Development, and Space-Tech.
+* 📫 **How to reach me:** [gyanendragatirajs@gmail.com](mailto:your-email@example.com)
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun fact:** I enjoy turning ambitious ideas into real AI-powered applications and exploring the intersection of AI and Space Technology.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gyan_1700) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gyanendra Gatiraj Swain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@Gyanrajswain) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Gyanrajswain) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Gyanendra Gatiraj Swain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gyanendragatirajs@gmail.com) 
